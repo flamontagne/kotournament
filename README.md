@@ -10,10 +10,10 @@
 
 The use case I have in mind is someone who:
 
-1) Generate tournament brackets with the gem (ask tournament type, number of teams, game times, etc)
-2) Store the tournament (JSON) in a database 
-3) Whenever we want to display the tournament, we pass the JSON to the gem
-4) This will output the tournament in HTML5+Jquery
+1. Generate tournament brackets with the gem (ask tournament type, number of teams, game times, etc)
+2. Store the tournament (JSON) in a database 
+3. Whenever we want to display the tournament, we pass the JSON to the gem
+4. This will output the tournament in HTML5+Jquery
 
 To advance the tournament (indicating the winner of some node), it could work this way:
 
